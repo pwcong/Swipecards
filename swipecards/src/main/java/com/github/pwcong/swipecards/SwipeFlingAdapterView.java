@@ -1,4 +1,4 @@
-package me.pwcong.swipecards;
+package com.github.pwcong.swipecards;
 
 import android.annotation.TargetApi;
 import android.content.Context;

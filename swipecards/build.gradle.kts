@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.swipecards"
+    namespace = "com.github.pwcong.swipecards"
     compileSdk = 34
 
     defaultConfig {

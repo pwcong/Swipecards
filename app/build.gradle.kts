@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.swipecardsdemo"
+    namespace = "com.github.pwcong.swipecardsdemo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "me.pwcong.swipecardsdemo"
+        applicationId = "com.github.pwcong.swipecardsdemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

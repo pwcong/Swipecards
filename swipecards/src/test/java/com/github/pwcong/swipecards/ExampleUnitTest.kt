@@ -1,4 +1,4 @@
-package me.pwcong.swipecardsdemo
+package com.github.pwcong.swipecards
 
 import org.junit.Test
 

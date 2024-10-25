@@ -1,4 +1,4 @@
-package me.pwcong.swipecards;
+package com.github.pwcong.swipecards;
 
 import android.content.Context;
 import android.util.AttributeSet;
